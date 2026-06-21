@@ -16,5 +16,3 @@ A calculator that calculates simple interest given principal, annual rate of int
 3. Enter the time period in years
 4. Enter the annual rate of interest
 5. The script will calculate and display the simple interest
-
-## Example:
